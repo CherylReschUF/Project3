@@ -3,4 +3,4 @@ project(Project3)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Project3 COP3503CMineSweeper.cpp)
+add_executable(Project3 COP3503CP3MineSweeper.cpp)
